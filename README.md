@@ -1,4 +1,4 @@
-# Medli task
+# Medli Website
 
 ## Installing
 
@@ -20,4 +20,3 @@ npm install
 ```bash
 npm run test
 ```
-"# medli_website" 
