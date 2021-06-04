@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/medli_website/static/js/main.0872e726.chunk.js",
+    "main.js.map": "/medli_website/static/js/main.0872e726.chunk.js.map",
+    "runtime-main.js": "/medli_website/static/js/runtime-main.29a276b1.js",
+    "runtime-main.js.map": "/medli_website/static/js/runtime-main.29a276b1.js.map",
+    "static/js/2.d706399a.chunk.js": "/medli_website/static/js/2.d706399a.chunk.js",
+    "static/js/2.d706399a.chunk.js.map": "/medli_website/static/js/2.d706399a.chunk.js.map",
+    "static/js/3.52e0b8da.chunk.js": "/medli_website/static/js/3.52e0b8da.chunk.js",
+    "static/js/3.52e0b8da.chunk.js.map": "/medli_website/static/js/3.52e0b8da.chunk.js.map",
+    "index.html": "/medli_website/index.html",
+    "static/js/2.d706399a.chunk.js.LICENSE.txt": "/medli_website/static/js/2.d706399a.chunk.js.LICENSE.txt",
+    "static/media/Hero.2fb9a58c.png": "/medli_website/static/media/Hero.2fb9a58c.png",
+    "static/media/frame1.3783dcd2.png": "/medli_website/static/media/frame1.3783dcd2.png",
+    "static/media/frame2.23601067.png": "/medli_website/static/media/frame2.23601067.png",
+    "static/media/frame3.30a02767.png": "/medli_website/static/media/frame3.30a02767.png",
+    "static/media/play.ebc2ce03.png": "/medli_website/static/media/play.ebc2ce03.png",
+    "static/media/woman-freelance-worker.b084bfb0.png": "/medli_website/static/media/woman-freelance-worker.b084bfb0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29a276b1.js",
+    "static/js/2.d706399a.chunk.js",
+    "static/js/main.0872e726.chunk.js"
+  ]
+}
