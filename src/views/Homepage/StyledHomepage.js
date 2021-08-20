@@ -64,6 +64,6 @@ export const FooterWrapper = styled.footer`
     }
 
     @media screen and (max-width: 1024px) {
-        height: 938px;
+        height: auto;
     }
 `
